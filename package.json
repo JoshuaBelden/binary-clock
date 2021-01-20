@@ -1,0 +1,22 @@
+{
+  "name": "binary-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary-clock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaBelden/binary-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaBelden/binary-clock/issues"
+  },
+  "homepage": "https://github.com/JoshuaBelden/binary-clock#readme",
+  "dependencies": {
+    "onoff": "^6.0.1"
+  }
+}
